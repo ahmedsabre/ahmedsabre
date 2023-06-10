@@ -1,6 +1,6 @@
-### Hi there 👋 I'm Ahmed Sabre 
-[LINKEDIN](https://www.linkedin.com/in/ahmed-ali-47abbb172/ )
-<!--
+** Hi there 👋 I'm Ahmed Sabre **
+[`#0969DA`LinkedIn](https://www.linkedin.com/in/ahmed-ali-47abbb172/ )
+
 **ahmedsabre/ahmedsabre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
