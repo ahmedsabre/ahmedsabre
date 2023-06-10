@@ -1,9 +1,9 @@
 ** Hi there 👋 I'm Ahmed Sabre **
-[`#0969DA`LinkedIn](https://www.linkedin.com/in/ahmed-ali-47abbb172/ )
 
-**ahmedsabre/ahmedsabre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I'm a Data Scientist, Technical Writer, Machine Learning Scientist, Data Analyst, NLP Engineer, Computer Vision Engineer,Data Driven Decision Maker.
+[LinkedIn](https://www.linkedin.com/in/ahmed-ali-47abbb172/ )
+[MEDIUM](https://medium.com/@ahmadsabry678)
+[KAGGLE](https://www.kaggle.com/ahmadali3)
 
 - 🔭 I’m currently working on Data Scientist & Machine Learning Engineer
 - 🌱 I’m currently learning Generative AI
