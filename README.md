@@ -35,7 +35,7 @@
             </td>
             <td align="center" width="140" height="112.43">
                 <img src="./assets/icons/streamlit.png" width="65px"/>
-                <br /> Pytorch
+                <br /> Streamlit
             </td>
             <td align="center" width="140" height="112.43">
                 <img src="./assets/icons/scikitlearn.png" width="65px"/>
@@ -43,11 +43,11 @@
             </td>
             <td align="center" width="140" height="112.43">
                 <img src="./assets/icons/plotly.png" width="65px"/>
-                <br /> FastAPI
+                <br /> Plotly
             </td>
             <td align="center" width="140" height="112.43">
                 <img src="./assets/icons/kaggle.png" width="65px"/>
-                <br /> Docker
+                <br /> Kaggle
             </td>
         </tr>
     </table>
