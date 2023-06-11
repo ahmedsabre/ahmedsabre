@@ -52,14 +52,7 @@
         </tr>
     </table>
     </div>
-  
-  
 
-### Important Repository
-
-💾 Seq2seq AI Chatbot with attention mechanism - [🔗](https://github.com/Abonia1/Seq2Seq-Chatbot)
-
----
 
 ***Thanks for visiting my profile.***
 
