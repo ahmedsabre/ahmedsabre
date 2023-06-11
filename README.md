@@ -1,7 +1,9 @@
 ## Hi there 👋 I'm Ahmed Sabre 
 
 # I'm a Data Scientist, Technical Writer, Machine Learning Scientist, Data Analyst, NLP Engineer, Computer Vision Engineer,Data Driven Decision Maker.
-[LinkedIn](https://www.linkedin.com/in/ahmed-ali-47abbb172/ )  [MEDIUM](https://medium.com/@ahmadsabry678)  [KAGGLE](https://www.kaggle.com/ahmadali3)
+[LinkedIn](https://www.linkedin.com/in/ahmed-ali-47abbb172/ )  
+[MEDIUM](https://medium.com/@ahmadsabry678) 
+[KAGGLE](https://www.kaggle.com/ahmadali3)
 - 🔭 I’m currently working on Data Scientist & Machine Learning Engineer
 - 🌱 I’m currently learning Generative AI
 - 👯 I’m collaborator of opensource ML projects and looking for more collaboration
