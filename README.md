@@ -10,4 +10,3 @@
 - 🤔 I’m looking for help with driving business growth with data driven solutions.
 - 🥅 Goals:Explore the more and more research of Computer vision,Deep learning,NLP,TimeSeries Analysis and Data Driven Decision Making.
 - ⚡ Fun fact: I love to code and solving problems. Love problems 💪
--->
