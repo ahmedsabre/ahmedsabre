@@ -34,7 +34,7 @@
                 <br /> TensorFlow
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="./assets/icons/pytorch.png" width="65px"/>
+                <img src="./assets/icons/streamlit.png" width="65px"/>
                 <br /> Pytorch
             </td>
             <td align="center" width="140" height="112.43">
@@ -42,11 +42,11 @@
                 <br /> Scikit Learn
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="./assets/icons/fastapi.png" width="65px"/>
+                <img src="./assets/icons/plotly.png" width="65px"/>
                 <br /> FastAPI
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="./assets/icons/docker.png" width="65px"/>
+                <img src="./assets/icons/kaggle.png" width="65px"/>
                 <br /> Docker
             </td>
         </tr>
