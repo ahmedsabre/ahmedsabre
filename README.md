@@ -35,7 +35,7 @@
             </td>
             <td align="center" width="140" height="112.43">
                 <img src="./streamlit.png" width="65px"/>
-                
+                <br />
             </td>
             <td align="center" width="140" height="112.43">
                 <img src="./scikitlearn.png" width="65px"/>
@@ -43,7 +43,7 @@
             </td>
             <td align="center" width="140" height="112.43">
                 <img src="./plotly.png" width="65px"/>
-              
+                <br />
             </td>
             <td align="center" width="140" height="112.43">
                 <img src="./kaggle.png" width="65px"/>
