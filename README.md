@@ -22,31 +22,31 @@
     <table align="center">
         <tr>
             <td align="center" width="140" height="112.43">
-                <img src="./assets/icons/python.jpeg" width="65px"/>
+                <img src="./python.jpeg" width="65px"/>
                 <br /> Python
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="./assets/icons/jupyter.png" width="65px"/>
+                <img src="./jupyter.png" width="65px"/>
                 <br /> Jupyter
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="./assets/icons/tensorflow.png" width="65px"/>
+                <img src="./tensorflow.png" width="65px"/>
                 <br /> TensorFlow
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="./assets/icons/streamlit.png" width="65px"/>
+                <img src="./streamlit.png" width="65px"/>
                 <br /> Streamlit
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="./assets/icons/scikitlearn.png" width="65px"/>
+                <img src="./scikitlearn.png" width="65px"/>
                 <br /> Scikit Learn
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="./assets/icons/plotly.png" width="65px"/>
+                <img src="./plotly.png" width="65px"/>
                 <br /> Plotly
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="./assets/icons/kaggle.png" width="65px"/>
+                <img src="./kaggle.png" width="65px"/>
                 <br /> Kaggle
             </td>
         </tr>
